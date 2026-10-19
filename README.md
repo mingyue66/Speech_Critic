@@ -1,5 +1,10 @@
 # SpeechCritic
 
+<p align="center">
+  <a href="https://arxiv.org/pdf/2609.34582"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read the paper on arXiv"></a>
+  <a href="https://mingyue66.github.io/Speech_Critic/"><img src="https://img.shields.io/badge/Interactive-Demo-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open the interactive demo"></a>
+</p>
+
 SpeechCritic is an end-to-end recipe for building reference-conditioned speech
 critics from limited pairwise human judgments. It first turns task-specific
 measurements into human-calibrated probabilistic hints, then studies three
